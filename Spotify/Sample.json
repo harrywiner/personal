@@ -1,0 +1,39 @@
+[
+    {
+    "endTime" : "2019-10-16 23:34",
+    "artistName" : "Grateful Dead",
+    "trackName" : "Sugaree - Live at P.N.E. Coliseum, Vancouver, B.C. 5/17/74",
+    "msPlayed" : 1
+    },
+    {
+    "endTime" : "2019-10-16 23:35",
+    "artistName" : "Grateful Dead",
+    "trackName" : "Althea - 2013 Remaster",
+    "msPlayed" : 10
+    },
+    {
+    "endTime" : "2019-10-16 23:41",
+    "artistName" : "The Allman Brothers Band",
+    "trackName" : "Soulshine",
+    "msPlayed" : 100
+    },
+    {
+    "endTime" : "2019-10-16 23:48",
+    "artistName" : "Grateful Dead",
+    "trackName" : "Althea - 2013 Remaster",
+    "msPlayed" : 1000
+    },
+    {
+    "endTime" : "2019-10-16 23:51",
+    "artistName" : "J. Cole",
+    "trackName" : "Ville Mentality",
+    "msPlayed" : 10000
+    },
+
+    {
+    "endTime" : "2019-10-16 23:55",
+    "artistName" : "Steely Dan",
+    "trackName" : "Any Major Dude Will Tell You",
+    "msPlayed" : 100000
+    }
+]
