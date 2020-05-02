@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pengu
+comment0.text=\n\ Write\ a\ description\ of\ class\ Pengu\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=level
+comment1.target=Pengu(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Pengu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkKey()
+comment4.params=
+comment4.target=boolean\ atEdge()
+comment5.params=
+comment5.target=void\ jump()
+comment5.text=\n\ Check\ if\ pengu\ is\ on\ the\ ground\ then\ execute\ a\ jump\ accordingly\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\n\ This\ is\ the\ whole\ scene.\ It\ creates\ and\ contains\ the\ objects\ that\ are\ in\ it.\n
+comment1.params=
+comment1.target=Level1()
+comment2.params=pengu
+comment2.target=Level1(Pengu)
+numComments=3

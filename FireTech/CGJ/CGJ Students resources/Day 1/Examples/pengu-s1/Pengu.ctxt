@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pengu
+comment0.text=\n\ A\ little\ penguin\ that\ wants\ to\ get\ to\ the\ other\ side.\n
+comment1.params=
+comment1.target=Pengu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ jump()
+comment5.params=
+comment5.target=void\ checkFall()
+comment6.params=
+comment6.target=void\ checkNextLevel()
+comment6.text=\n\ Check\ whether\ we\ should\ go\ to\ the\ next\ level,\ and\ if\ yes,\ start\ the\ next\ level.\n
+numComments=7

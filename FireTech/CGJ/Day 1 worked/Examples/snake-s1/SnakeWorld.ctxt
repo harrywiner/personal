@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnakeWorld()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ snakeWorld.\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=d
+comment10.target=int\ getMyY(int)
+comment2.params=
+comment2.target=void\ makeSnakeHead()
+comment3.params=
+comment3.target=void\ makeSnake()
+comment4.params=
+comment4.target=void\ addDot()
+comment5.params=
+comment5.target=void\ addFood()
+comment6.params=d\ dx
+comment6.target=void\ setDX(int,\ int)
+comment7.params=d\ dy
+comment7.target=void\ setDY(int,\ int)
+comment8.params=
+comment8.target=void\ gameOver()
+comment9.params=d
+comment9.target=int\ getMyX(int)
+numComments=11

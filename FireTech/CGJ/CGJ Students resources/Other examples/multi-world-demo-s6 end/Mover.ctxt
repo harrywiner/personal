@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ moveRight()
+comment0.text=\n\ Move\ a\ bit\ to\ the\ right.\n
+comment1.params=
+comment1.target=void\ moveLeft()
+comment1.text=\n\ Move\ a\ bit\ to\ the\ left.\n
+comment2.params=
+comment2.target=boolean\ onGround()
+comment2.text=\n\ Return\ true\ if\ we're\ on\ firm\ ground\ that\ we\ can\ stand\ on.\n
+comment3.params=speed
+comment3.target=void\ setVSpeed(int)
+comment3.text=\n\ Set\ a\ speed\ for\ a\ vertical\ movement.\ Positive\ values\ go\ down,\ negative\ values\n\ go\ up.\n
+comment4.params=
+comment4.target=void\ fall()
+comment4.text=\n\ Apply\ gravity\ and\ fall\ downwards\ until\ we\ hit\ ground\ or\ the\ bottom\ of\ the\ screen.\n
+comment5.params=
+comment5.target=boolean\ atBottom()
+comment5.text=\n\ Return\ true\ if\ we're\ at\ the\ bottom\ of\ the\ screen.\n
+comment6.params=
+comment6.target=void\ gameEnd()
+comment6.text=\n\ End\ this\ game\ (that\ is\:\ stop\ the\ simuation).\n
+numComments=7

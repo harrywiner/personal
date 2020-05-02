@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SplatWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ SplatWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SplatWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ SplatWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

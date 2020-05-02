@@ -34,7 +34,7 @@ smashdown (sa:(sb:ss)) = (sa,sb) : smashdown ss
 printZipped :: [([Char], [Char])] -> IO()
 printZipped [] = putStrLn ""
 printZipped (sa:ss) = do 
-                        putStrLn ((fst  sa) ++ " VS "++ (snd sa))
+                        putStrLn ((fst  sa) ++ " VS " ++ (snd sa))
                         printZipped ss 
 
 --["Matio","Link","Peach","Donkey Kong"]

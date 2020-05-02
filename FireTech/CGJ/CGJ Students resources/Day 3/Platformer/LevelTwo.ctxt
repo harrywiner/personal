@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LevelTwo
+comment0.text=\n\ Write\ a\ description\ of\ class\ LevelTwo\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=LevelTwo()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ LevelTwo.\n\ \n
+comment2.params=pengu
+comment2.target=LevelTwo(Pengu)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ LevelTwo.\n\ \n
+numComments=3

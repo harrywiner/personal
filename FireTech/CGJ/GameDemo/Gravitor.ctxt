@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Gravitor
+comment0.text=\n\ \n\ Write\ a\ description\ of\ class\ Gravitor\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gravity
+comment1.target=Gravitor(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Gravitor\n
+comment2.params=
+comment2.target=Gravitor()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ An\ implementation\ of\ the\ act\ method\ in\ Actor\n\ Should\ be\ called\ as\ super\ then\ executed\ after\n
+comment4.params=dy
+comment4.target=void\ jump(int)
+comment4.text=\n\ If\ the\ Gravitor\ is\ on\ the\ ground\ then\ add\ an\ amount\ to\ the\ \n\ vertical\ velocity\n\ TODO\:\ make\ it\ amount\ jumped\ using\ an\ equation\n
+numComments=5

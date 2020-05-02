@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Level2
+comment0.text=\n\ Write\ a\ description\ of\ class\ Level2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Level2()
+comment1.text=\n\ Default\ constructor.\ If\ we\ don't\ receive\ a\ game\ character,\ create\ one.\n
+comment2.params=pengu
+comment2.target=Level2(Pengu)
+comment2.text=\n\ Constructor\ used\ during\ play\ -\ the\ game\ character\ is\ passed\ in.\n
+numComments=3
